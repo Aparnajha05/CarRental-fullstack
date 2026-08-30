@@ -2,8 +2,7 @@ A full-stack car rental web application where users can browse, book, and manage
 
 Live Demo: car-rental-server-aparna20.vercel.app
 
-Overview
-
+Overview:
 CarRental-fullstack is a MERN-style application split into two parts:
 
 client/ — Frontend (React)
@@ -11,14 +10,13 @@ server/ — Backend (Node.js + Express REST API)
 
 The app allows users to sign up, browse available cars, book rentals, and manage bookings, while car owners can add/manage car listings with images.
 
-Tech Stack
 
+Tech Stack:
 Frontend:
 React
 (Add: React Router, Tailwind/CSS framework, Axios — update as applicable)
 
-Backend
-
+Backend:
 Node.js
 Express.js
 MongoDB Atlas (database)
