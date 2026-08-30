@@ -1,6 +1,6 @@
 A full-stack car rental web application where users can browse, book, and manage car rentals, with owners able to list and manage their own cars.
 
-Live Demo: car-rental-server-aparna20.vercel.app
+Live Demo: car-rental-beta-swart.vercel.app
 
 Overview:
 CarRental-fullstack is a MERN-style application split into two parts:
@@ -44,6 +44,6 @@ CarRental-fullstack/
 Deployement:
 Both client and server are deployed on Vercel.
 
-Live server/app: car-rental-server-aparna20.vercel.app
+Live server/app: car-rental-beta-swart.vercel.app
 
 Aparna Jha GitHub: @Aparnajha05
